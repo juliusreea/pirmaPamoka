@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pirmaPamoka/1.0.0": {
+        "runtime": {
+          "pirmaPamoka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pirmaPamoka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
