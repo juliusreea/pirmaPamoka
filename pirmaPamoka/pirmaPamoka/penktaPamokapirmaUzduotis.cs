@@ -2,9 +2,8 @@
 
 namespace pirmaPamoka
 {
-    internal class Program
+    class Program
     {
-
         static void Main(string[] args)
         {
             Console.WriteLine("iveskite skaiciu1");

@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/juliusvaigauskas/.nuget/packages/": {}
+    "/Users/julius/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/juliusvaigauskas/projects/pirma pamoka/pirmaPamoka/pirmaPamoka/pirmaPamoka.csproj",
+      "projectUniqueName": "/Users/julius/Desktop/project/pirma pamoka/pirmaPamoka/pirmaPamoka/pirmaPamoka.csproj",
       "projectName": "pirmaPamoka",
-      "projectPath": "/Users/juliusvaigauskas/projects/pirma pamoka/pirmaPamoka/pirmaPamoka/pirmaPamoka.csproj",
-      "packagesPath": "/Users/juliusvaigauskas/.nuget/packages/",
-      "outputPath": "/Users/juliusvaigauskas/projects/pirma pamoka/pirmaPamoka/pirmaPamoka/obj/",
+      "projectPath": "/Users/julius/Desktop/project/pirma pamoka/pirmaPamoka/pirmaPamoka/pirmaPamoka.csproj",
+      "packagesPath": "/Users/julius/.nuget/packages/",
+      "outputPath": "/Users/julius/Desktop/project/pirma pamoka/pirmaPamoka/pirmaPamoka/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/juliusvaigauskas/.config/NuGet/NuGet.Config"
+        "/Users/julius/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
       }
     }
   }
